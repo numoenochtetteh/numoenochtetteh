@@ -1,115 +1,119 @@
+<div align="center">
+
 # 👋 Hi, I'm Enoch Numo Tetteh
 
-<h3 align="center">
-Frontend Engineer (React · TypeScript) | Node.js | Express.js | MongoDB | WordPress
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+%26+High-Performance+Web+Applications" />
 
-<p align="center">
-  <a href="https://devenochnumotetteh.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge" />
-  </a>
-  <a href="mailto:numoenochtettehkent@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/enoch-numo-tetteh-993432358">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+### Frontend Engineer (React · TypeScript) | Node.js | Express.js | MongoDB | WordPress
+
+<p>
+
+<a href="https://devenochnumotetteh.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/enoch-numo-tetteh-993432358">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:numoenochtettehkent@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Frontend Engineer passionate about building modern, responsive web applications.
-- ⚛️ Specializing in **React, Next.js, TypeScript, and Tailwind CSS**.
-- 🌱 Currently learning **Node.js, Express.js, MongoDB, and REST APIs**.
-- 🎯 Focused on creating fast, accessible, and user-friendly web experiences.
-- 💼 Open to **Frontend Developer** opportunities.
+💻 Passionate Frontend Engineer focused on building fast, responsive and accessible web applications.
 
----
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
-
-### 🎨 Design & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
-</p>
-
-### ☁️ Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
-
-### 🌐 CMS
-
-<p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
-</p>
+- ⚛️ Building modern interfaces using **React, Next.js & TypeScript**
+- 🌱 Currently learning **Node.js, Express.js, MongoDB & REST APIs**
+- 🎯 Interested in UI/UX, performance optimization and scalable web applications
+- 💼 Open to **Frontend Developer** opportunities
 
 ---
 
-## 📂 Featured Projects
+# 💻 Tech Stack
 
-🚀 **Developer Portfolio**
-- Responsive portfolio built with React and Tailwind CSS.
-- 🔗 https://devenochnumotetteh.vercel.app/
+<div align="center">
 
-💎 **NUMO & SEBI Jewelry Store**
-- Modern e-commerce frontend built with React.
-- Features responsive UI, shopping cart, and product pages.
+### Frontend
 
-📅 **SaaS Appointment Booking System**
-- Full-stack booking platform using React, Node.js, Express, PostgreSQL, Prisma, and Stripe.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
+
+### Deployment
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify"/>
+
+### CMS
+
+<img src="https://skillicons.dev/icons?i=wordpress"/>
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=numofran6&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numofran6&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=numofran6&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🌍 Connect With Me
+# 🏆 GitHub Trophies
 
-<p>
+<div align="center">
 
-<a href="https://devenochnumotetteh.vercel.app/">
+<img src="https://github-profile-trophy.vercel.app/?username=numofran6&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌐 **Developer Portfolio** | Modern portfolio built with React, Tailwind CSS & Vite. |
+| 💎 **NUMO & SEBI** | Responsive Jewelry E-commerce Website. |
+| 💇 **PENGTRESSES** | Luxury wig booking platform built with Next.js. |
+| ⚡ **Power Electrode Ltd** | Corporate manufacturing website. |
+| 📅 **Appointment Booking SaaS** | Full-stack booking platform (In Progress). |
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://devenochnumotetteh.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -121,18 +125,24 @@ Frontend Engineer (React · TypeScript) | Node.js | Express.js | MongoDB | WordP
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💡 Quote
+# 📈 Visitor Count
 
-> *"Great user experiences are built through clean code, thoughtful design, and continuous learning."*
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=numofran6&style=for-the-badge&color=0e75b6"/>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=numofran6&color=blue&style=flat-square)
+### 💡 Quote of the Day
 
-</p>
+*"Great software is built by developers who never stop learning."*
+
+</div>
