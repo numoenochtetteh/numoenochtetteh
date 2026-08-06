@@ -53,15 +53,3 @@
 <img src="https://skillicons.dev/icons?i=wordpress"/>
 
 </div>
-
-
-
----
-
-<div align="center">
-
-### 💡 Quote of the Day
-
-*"Great software is built by developers who never stop learning."*
-
-</div>
