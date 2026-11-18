@@ -6,13 +6,17 @@ I work mainly with React, Next.js, TypeScript, and Tailwind CSS. I'm also part o
 
 ## Selected work
 
-[<img src="./assets/projects/femmora-preview.webp" alt="Animated preview of the FEMMORA clothing storefront" width="100%">](https://femmora-gh.vercel.app/)
+[<img src="./assets/projects/femmora-collection.webp" alt="FEMMORA collection showing tops, sets, bottoms, and dresses" width="100%">](https://femmora-gh.vercel.app/)
 
 **[FEMMORA](https://femmora-gh.vercel.app/).** A responsive women's clothing storefront with a video-led homepage, collection browsing, product pages, and a shopping bag. [View the code](https://github.com/numoenochtetteh/femmora).
 
 [<img src="./assets/projects/gas-safety.webp" alt="Gas Safety and Plumbing Engineering website homepage" width="100%">](https://gassafetyandplumbingengineeringltd.com/)
 
 **[Gas Safety and Plumbing Engineering Ltd](https://gassafetyandplumbingengineeringltd.com/).** A responsive company website for gas, heating, plumbing, and electrical services. I built its service pages, portfolio, emergency page, FAQs, and contact flow. [View the code](https://github.com/numoenochtetteh/Gas-Safety-and-Plumbing-Engineering-Ltd-).
+
+[<img src="./assets/projects/forever-peng.webp" alt="Forever Peng Hair appointment booking website" width="100%">](https://foreverpenghair.com/)
+
+**[Forever Peng Hair](https://foreverpenghair.com/).** An online appointment booking platform for hair services. I built the multi-step booking flow, Stripe deposit payments, an admin approval process, and customer email and calendar confirmations.
 
 [<img src="https://raw.githubusercontent.com/numoenochtetteh/madebysebi/main/public/case-studies/power-electrode/01-about.png" alt="Power Electrode Ltd website" width="100%">](https://power-electrode-ltd.vercel.app/)
 
@@ -21,10 +25,6 @@ I work mainly with React, Next.js, TypeScript, and Tailwind CSS. I'm also part o
 [<img src="https://raw.githubusercontent.com/numoenochtetteh/madebysebi/main/public/brand/madebysebi-og.png" alt="MadeBySebi brand visual" width="100%">](https://madebysebi.com/)
 
 **[MadeBySebi](https://madebysebi.com/).** The studio I build with my brothers. Our site brings together our services, selected work, and a direct way for clients to start a project. [View the code](https://github.com/numoenochtetteh/madebysebi).
-
-[<img src="./assets/projects/forever-peng.webp" alt="Forever Peng Hair appointment booking website" width="100%">](https://foreverpenghair.com/)
-
-**[Forever Peng Hair](https://foreverpenghair.com/).** An online appointment booking platform for hair services. I built the multi-step booking flow, Stripe deposit payments, an admin approval process, and customer email and calendar confirmations.
 
 [<img src="./assets/projects/lucenex-corp.webp" alt="Lucenex Corp data and AI company website" width="100%">](https://www.lucenexcorp.com/)
 
@@ -38,7 +38,7 @@ Also: [ThyGraceMerch](https://thygracemerch.vercel.app/), a responsive shopping 
 
 ## How I work
 
-I start with what someone needs to do, then design and build the path around it. I pay close attention to mobile layouts, loading and error states, and the small details that make a product feel easy to use. For more involved projects, I test the important interactions with Playwright and Vitest before handing them over.
+React and TypeScript for products. Once something works, most of my time goes into how it feels. That means thinking beyond one screen: the navigation, loading and error states, and the way each step leads to the next. Context changes what good design looks like. A booking flow has to be simple on a phone, with clear availability and deposit details; a clothing storefront has to make it easy to find the right category and see the products. I'll happily spend hours getting those details right.
 
 ## Elsewhere
 
