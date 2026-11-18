@@ -1,4 +1,4 @@
-<img src="./assets/banner.webp" alt="Enoch Numo Tetteh — Frontend Developer" width="100%">
+<img src="./assets/banner.png" alt="From Concept to Reality — Plan, Design, Code, Deploy" width="100%">
 
 I'm a frontend developer based in Accra, Ghana. I build websites and product experiences that are clear, responsive, and useful in the real world — from booking flows and storefronts to internal dashboards.
 
