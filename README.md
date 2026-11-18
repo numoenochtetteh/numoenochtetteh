@@ -6,6 +6,10 @@ I work mainly with React, Next.js, TypeScript, and Tailwind CSS. I'm also part o
 
 ## Selected work
 
+[<img src="./assets/projects/femmora-preview.webp" alt="Animated preview of the FEMMORA clothing storefront" width="100%">](https://femmora-gh.vercel.app/)
+
+**[FEMMORA](https://femmora-gh.vercel.app/).** A responsive women's clothing storefront with a video-led homepage, collection browsing, product pages, and a shopping bag. [View the code](https://github.com/numoenochtetteh/femmora).
+
 [<img src="./assets/projects/gas-safety.webp" alt="Gas Safety and Plumbing Engineering website homepage" width="100%">](https://gassafetyandplumbingengineeringltd.com/)
 
 **[Gas Safety and Plumbing Engineering Ltd](https://gassafetyandplumbingengineeringltd.com/).** A responsive company website for gas, heating, plumbing, and electrical services. I built its service pages, portfolio, emergency page, FAQs, and contact flow. [View the code](https://github.com/numoenochtetteh/Gas-Safety-and-Plumbing-Engineering-Ltd-).
